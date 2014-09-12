@@ -2,9 +2,14 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"Auto Semi-Colon",
 		"BracketHighlighter",
 		"Dayle Rees Color Schemes",
 		"Emmet",
-		"IndentX"
+		"IndentX",
+		"phpfmt",
+		"R-snippets",
+		"SublimeREPL"
 	]
 }

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+
+/**
+ *
+ * Returns ${1:Description of the function}
+ *
+ * @param ${2:Param type} \$${3:Param name} ${4:Param description}
+ *
+ * @return ${5:Return type}
+ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fnd</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+	<description>Function description (php)</description>
+</snippet>
