@@ -5,11 +5,10 @@
 		"All Autocomplete",
 		"Auto Semi-Colon",
 		"BracketHighlighter",
+		"CodeFormatter",
 		"Dayle Rees Color Schemes",
 		"Emmet",
-		"IndentX",
-		"phpfmt",
-		"R-snippets",
-		"SublimeREPL"
+		"Phpcs",
+		"SideBarEnhancements"
 	]
 }

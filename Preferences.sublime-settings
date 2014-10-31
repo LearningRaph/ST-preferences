@@ -11,12 +11,12 @@
 		"node_modules"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 13.5,
+	"font_size": 14.5,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"BracketHighlighter"
+		"BracketHighlighter",
+		"Vintage"
 	],
 	"indent_to_bracket": true,
 	"line_padding_bottom": 1,
