@@ -8,15 +8,7 @@
 		"CodeFormatter",
 		"Dayle Rees Color Schemes",
 		"Emmet",
-<<<<<<< HEAD
 		"Phpcs",
 		"SideBarEnhancements"
-=======
-		"IndentXML",
-		"phpfmt",
-		"R-snippets",
-		"SideBarEnhancements",
-		"SublimeREPL"
->>>>>>> origin/master
 	]
 }
