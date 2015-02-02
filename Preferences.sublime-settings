@@ -1,8 +1,9 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Peacock (SL).tmTheme",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/peacock.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
+	"show_encoding" : true,
 	"folder_exclude_patterns":
 	[
 		"Console",
@@ -11,7 +12,7 @@
 		"node_modules"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 13,
+	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
