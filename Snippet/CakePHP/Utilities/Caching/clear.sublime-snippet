@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[Cache::clear(${1:\$check}, ${2:\$config = 'default'});]]></content>
-	<tabTrigger>clear</tabTrigger>
-	<scope>source.php</scope>
-	<description>CakePHP: Cache::clear()</description>
-</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+/**
+*
+* Returns ${1:Description of the function}
+*
+* @param ${2:Param type} \$${3:Param name} ${4:Param description}
+*
+* @return ${5:Return type}
+*/
+]]></content>
+<tabTrigger>fnd</tabTrigger>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+<description>PHP - Method description</description>
+</snippet>

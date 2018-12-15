@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:echo }\$this->Time->toQuarter(${2:\$dateString}, ${3:\$range = false});]]></content>
-	<tabTrigger>toQuarter</tabTrigger>
-	<scope>source.php</scope>
-	<description>CakePHP: $this->Time->toQuarter()</description>
-</snippet>

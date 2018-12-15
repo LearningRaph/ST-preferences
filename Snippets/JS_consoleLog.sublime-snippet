@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[console.log(${1:abc});]]></content>
+<tabTrigger>csl</tabTrigger>
+<scope>source.js</scope>
+<description>JS - Console log</description>
+</snippet>

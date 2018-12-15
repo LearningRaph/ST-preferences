@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:echo }\$this->Time->wasYesterday(${2:\$dateString}, ${3:\$timezone = null});]]></content>
-	<tabTrigger>wasYesterday</tabTrigger>
-	<scope>source.php</scope>
-	<description>CakePHP: $this->Time->wasYesterday()</description>
-</snippet>

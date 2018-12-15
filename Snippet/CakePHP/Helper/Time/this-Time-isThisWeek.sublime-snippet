@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:echo }\$this->Time->isThisWeek(${2:\$dateString}, ${3:\$timezone = null});]]></content>
-	<tabTrigger>isThisWeek</tabTrigger>
-	<scope>source.php</scope>
-	<description>CakePHP: $this->Time->isThisWeek()</description>
-</snippet>

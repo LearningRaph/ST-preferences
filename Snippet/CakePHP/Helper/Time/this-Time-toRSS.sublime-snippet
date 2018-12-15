@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[${1:echo }\$this->Time->toRSS(${2:\$dateString}, ${3:\$timezone = null});]]></content>
-	<tabTrigger>toRSS</tabTrigger>
-	<scope>source.php</scope>
-	<description>CakePHP: $this->Time->toRSS()</description>
-</snippet>

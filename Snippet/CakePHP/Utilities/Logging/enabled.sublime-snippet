@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[CakeLog::enabled(${1:\$streamName});]]></content>
-	<tabTrigger>enabled</tabTrigger>
-	<scope>source.php</scope>
-	<description>CakePHP: CakeLog::enabled()</description>
-</snippet>

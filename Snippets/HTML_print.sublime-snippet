@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<pre><?php print_r(${1:\$this->request->data}); ?></pre>
+]]></content>
+<tabTrigger>prr</tabTrigger>
+<scope>text.html</scope>
+<description>HTML - Print</description>
+</snippet>
