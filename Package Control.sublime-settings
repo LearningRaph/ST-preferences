@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
 		"Auto Semi-Colon",
@@ -14,16 +15,17 @@
 		"BracketHighlighter",
 		"CodeFormatter",
 		"Dayle Rees Color Schemes",
-		"DocBlockr",
 		"Emmet",
 		"Grunt",
 		"Laravel 5 Snippets",
 		"LiveReload",
 		"Package Control",
 		"PHP Companion",
+		"PHP CS Fixer",
 		"SideBarEnhancements",
+		"SnippetMaker",
 		"SublimeLinter",
-		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
 		"Trimmer"
 	]
 }
